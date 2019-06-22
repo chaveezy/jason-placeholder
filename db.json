@@ -13,15 +13,5 @@
         "id": 3,
         "title": "Todo Three",
         "completed": "true"
-      },
-      {
-        "id": 4,
-        "title": "Todo Four",
-        "completed": "false"
-      },
-      {
-        "id": 5,
-        "title": "Todo Five",
-        "completed": "true"
       }
 ]
