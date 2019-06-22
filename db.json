@@ -23,10 +23,5 @@
         "id": 5,
         "title": "Todo Five",
         "completed": true
-      },
-      {
-        "id": 6,
-        "title": "Todo Six",
-        "completed": true
       }
 ]
